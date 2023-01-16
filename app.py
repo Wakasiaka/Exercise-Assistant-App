@@ -63,6 +63,8 @@ counter = 0
 bodylang_prob = np.array([0,0]) 
 bodylang_class = '' 
 
+X-m
+
 def detect(): 
     global current_stage
     global counter
